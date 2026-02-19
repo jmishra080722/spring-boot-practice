@@ -1,0 +1,21 @@
+server:
+  port: 8181
+
+
+
+discount:
+  offer:
+    price: 25
+
+myList:
+  - orange
+  - banana
+  - apple
+  - dfhjkd
+  - hcdkh
+
+
+#spring:
+#  profiles:
+#    active:
+#      - stg
